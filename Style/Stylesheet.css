@@ -118,3 +118,8 @@ body{
   color: #333333;
   cursor: pointer;
 }
+@media only screen and (max-width: 600px) {
+  .mainContainer{
+    width: 80%;
+  }
+}
